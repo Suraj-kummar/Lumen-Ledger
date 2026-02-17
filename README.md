@@ -81,6 +81,6 @@ npx hardhat test
 ## 🤝 Contributing
 I'm pushing this to Git to invite other Web3 devs who care about transparency. If you're into ZK-SNARKs or Decentralized Identity, check the `Roadmap` and open a PR.
 
----
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 **"Don't trust authorities, verify the chain."**
