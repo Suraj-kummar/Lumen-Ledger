@@ -78,7 +78,7 @@ npx hardhat test
 - [ ] **DID Integration:** Proof-of-Personhood via Polygon ID or WorldID to mitigate Sybil attacks (spam bots).
 - [ ] **Frontend Dashboard:** A glassmorphism-inspired UI for real-time tracking of civic issues.
 
-## 🤝 Contributing
+## 🤝 Contributing 
 I'm pushing this to Git to invite other Web3 devs who care about transparency. If you're into ZK-SNARKs or Decentralized Identity, check the `Roadmap` and open a PR.
 
 ```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
