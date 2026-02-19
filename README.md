@@ -84,4 +84,4 @@ I'm pushing this to Git to invite other Web3 devs who care about transparency. I
 ```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 **"Don't trust authorities, verify the chain."**
- 
+  
